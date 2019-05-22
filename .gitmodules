@@ -1,0 +1,4 @@
+[submodule "assumerole"]
+	path = assumerole
+	url = https://github.com/latacora/assumerole.git
+	branch = master
